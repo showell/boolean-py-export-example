@@ -72,3 +72,8 @@ assert my_expr == "((NOT W) AND (X OR (NOT Y) OR Z))"
 In my actual use case I want to do something a bit more sophisticated than just rendering the
 expression in ALL-CAPS, but I believe that my `export` function will handle a lot of typical
 use cases.
+
+## Feature request ##
+
+I am hoping that the folks who maintain `boolean.py` will consider adding my export function into
+the library and supporting it.

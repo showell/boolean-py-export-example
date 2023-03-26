@@ -1,4 +1,4 @@
-# We use # https://github.com/bastikr/boolean.py
+# We use https://github.com/bastikr/boolean.py
 # (see their copyright at the bottom of the page, author == Sebastian Kraemer)
 import boolean
 import boolean_export

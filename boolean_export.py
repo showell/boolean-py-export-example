@@ -1,5 +1,5 @@
 import boolean
-# We use # https://github.com/bastikr/boolean.py
+# We use https://github.com/bastikr/boolean.py
 # (see their copyright at the bottom of the page, author == Sebastian Kraemer)
 
 def export(expr, *, f_and, f_or, f_not, f_symbol):

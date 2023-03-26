@@ -42,7 +42,7 @@ def export(expr, *, f_and, f_or, f_not, f_symbol):
 </pre>
 
 The code works fine for me, but it is obviously relying on some implementation details
-of their implementation.
+of their library.
 
 
 Here is what I do with `export` inside [example.py](./example.py):

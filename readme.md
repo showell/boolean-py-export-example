@@ -1,13 +1,13 @@
 This is a very small example of using the [boolean.py](https://github.com/bastikr/boolean.py)
 library to simplify boolean expressions.
 
-The library allows you to construct a boolean expression like so:
+Their library allows me to construct a boolean expression like so:
 
 <pre>
 (~w) & (z | (x & y & (~z)) | (~y | z))
 </pre>
 
-And then it simplifies it:
+And then the library simplifies it as this (super cool!):
 
 <pre>
 ~w&(x|~y|z)
@@ -76,4 +76,4 @@ use cases.
 ## Feature request ##
 
 I am hoping that the folks who maintain `boolean.py` will consider adding my export function into
-the library and supporting it.
+the library and supporting it.  For now I filed https://github.com/bastikr/boolean.py/issues/116

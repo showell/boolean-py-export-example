@@ -1,6 +1,8 @@
 This is a very small example of using the [boolean.py](https://github.com/bastikr/boolean.py)
 library to simplify boolean expressions.
 
+I provide some context in this [YouTube video](https://www.youtube.com/watch?v=snzWp8l21QA&feature=youtu.be).
+
 Their library allows me to construct a boolean expression like so:
 
 <pre>
